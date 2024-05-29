@@ -31,7 +31,7 @@ Long press on a file or directory to select it.
 Use the available options to rename, move, or copy the selected item.
 
 ## Screenshots
-
+<img width="300" height="200" src="https://github.com/S-ganapathy/File_manager/blob/master/android.png" alt="app-screenshot"><img width="300" height="200" src="https://github.com/S-ganapathy/File_manager/blob/master/android1.png" alt="app-screenshot">
 ## Acknowledgments
 Special thanks to the Android community for providing excellent resources and support.
 Thanks to open-source libraries and tools that made this project possible.
